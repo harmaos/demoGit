@@ -1,5 +1,10 @@
 # demoGit
 Demo de Git
 ligne 1
+<<<<<<< HEAD
 
 code modif
+=======
+ligne 2
+ligne 3
+>>>>>>> f450c22055071c1e99d0b39b7d987fa456d2a41e
