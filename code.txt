@@ -1,5 +1,6 @@
 # demoGit
 Demo de Git
-ligne 1
+ligne 1 Re modifié le 27/06 à 15 h15
 ligne 2
 ligne 3
+ligne 7 crée
