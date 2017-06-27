@@ -1,17 +1,7 @@
 # demoGit
 Demo de Git
-<<<<<<< HEAD
-ligne 1
-<<<<<<< HEAD
-
-code modif
-=======
-ligne 2
-ligne 3
->>>>>>> f450c22055071c1e99d0b39b7d987fa456d2a41e
-=======
-ligne 1 Re modifié le 27/06 à 15 h15
+ligne 1 modifié locale 16h00
 ligne 2
 ligne 3
 ligne 7 crée
->>>>>>> fadc04af700008b40cd941dfc98046cb5faba1da
+ligne 8 crée modifié ds devLogin
